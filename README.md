@@ -1,0 +1,2 @@
+# CheckConection
+Check git connction
